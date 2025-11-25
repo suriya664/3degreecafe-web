@@ -1,2 +1,2 @@
-# 3degreecafe-web
+# 3degree-web
 website
